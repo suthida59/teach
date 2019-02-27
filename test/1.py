@@ -19,4 +19,6 @@ c = today-x
 h = (c.total_seconds())/(60*60)
 print("คุณเกิดมาแล้ว %.2f ชั่วโมง" % h)
 
+print('computer')
+
 
